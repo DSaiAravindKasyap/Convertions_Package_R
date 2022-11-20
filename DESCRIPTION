@@ -1,0 +1,8 @@
+Package: DSaiAravindKasyap
+Type: Package
+Title: Temperature Convertions
+Version: 0.1.0
+Author: DSaiAravindKasyap
+Description: This Package can convert Celsius input to Fahrenheit and vice versa
+Encoding: UTF-8
+LazyData: true
